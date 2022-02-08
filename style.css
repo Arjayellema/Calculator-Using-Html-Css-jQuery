@@ -1,0 +1,28 @@
+* {
+  font-family: 'Rowdies', cursive;
+}
+#top {
+  width: 75%;
+  display: block;
+  border: none;
+  background: none;
+  color: black;
+  outline: none;
+}
+input {
+  width: 100%;
+  font-size: 45px;
+  margin: 10px;
+  text-align: center;
+  background: white;
+  outline: none;
+  display: block;
+  text-align: center;
+  color: white;
+  background: black;
+}
+@media  only screen and (min-width: 768px){
+ #top {
+   width: 200px;
+ } 
+}
